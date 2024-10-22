@@ -1,0 +1,78 @@
+---
+
+### **Company Profile: Perpustakaan Taman Ilmu**
+
+**Nama Perusahaan:**  
+Perpustakaan Taman Ilmu
+
+**Alamat Perusahaan:**  
+Jalan Pendidikan No. 456, Jakarta Timur, DKI Jakarta, Indonesia 13410
+
+**Nomor Telepon:**  
++62 21 9876 5432
+
+**Email:**  
+info@tamailmu.com
+
+### **Layanan yang Disediakan:**
+1. **Peminjaman Buku**
+2. **Ruang Baca**
+3. **Akses Jurnal Digital**
+4. **Pelatihan Literasi Informasi**
+
+### **Detail Layanan:**
+
+1. **Peminjaman Buku**
+   - **Deskripsi:** Layanan peminjaman buku untuk berbagai kategori seperti fiksi, non-fiksi, sains, sejarah, dan literatur klasik.
+   - **Syarat Peminjaman:**
+     - Anggota terdaftar
+     - Durasi pinjaman: 14 hari (dapat diperpanjang)
+   - **Jumlah Koleksi:** 10.000+ buku cetak
+   - **Biaya:** Gratis untuk anggota
+
+   **Buku yang Dapat Dipinjam:**
+   1. **Judul Buku:** *Laskar Pelangi*  
+      - **Penulis:** Andrea Hirata  
+      - **Kategori:** Fiksi  
+      - **Deskripsi:** Kisah inspiratif tentang kehidupan anak-anak di sebuah desa terpencil di Belitung yang penuh semangat dan perjuangan.
+   
+   2. **Judul Buku:** *Sapiens: A Brief History of Humankind*  
+      - **Penulis:** Yuval Noah Harari  
+      - **Kategori:** Non-Fiksi, Sejarah  
+      - **Deskripsi:** Sebuah perjalanan menakjubkan tentang sejarah manusia dari zaman prasejarah hingga revolusi modern.
+
+   3. **Judul Buku:** *Atomic Habits*  
+      - **Penulis:** James Clear  
+      - **Kategori:** Pengembangan Diri  
+      - **Deskripsi:** Buku yang menawarkan panduan praktis untuk membangun kebiasaan kecil yang dapat membawa perubahan besar dalam hidup.
+   
+   4. **Judul Buku:** *The Theory of Everything*  
+      - **Penulis:** Stephen Hawking  
+      - **Kategori:** Sains  
+      - **Deskripsi:** Penjelasan sederhana tentang konsep-konsep kosmologi dan alam semesta dari salah satu fisikawan terbesar abad ini.
+
+   5. **Judul Buku:** *Bumi Manusia*  
+      - **Penulis:** Pramoedya Ananta Toer  
+      - **Kategori:** Sastra Indonesia  
+      - **Deskripsi:** Novel sejarah yang menggambarkan perjuangan rakyat Indonesia di masa kolonial, penuh makna filosofis dan nilai-nilai kebangsaan.
+
+2. **Ruang Baca**
+   - **Deskripsi:** Ruang baca nyaman dengan suasana tenang, dilengkapi fasilitas Wi-Fi dan AC, cocok untuk membaca atau belajar.
+   - **Kapasitas:** 100 orang
+   - **Jam Operasional:** 09:00 - 18:00 (Senin-Sabtu)
+   - **Fasilitas:** Meja baca, Wi-Fi, AC
+
+3. **Akses Jurnal Digital**
+   - **Deskripsi:** Akses ke ribuan jurnal digital di berbagai bidang seperti sains, teknologi, dan humaniora melalui database online.
+   - **Cara Akses:**
+     - Login melalui website perpustakaan
+     - Dapat diakses di perpustakaan atau dari rumah
+   - **Biaya:** Gratis untuk anggota
+
+4. **Pelatihan Literasi Informasi**
+   - **Deskripsi:** Program pelatihan untuk meningkatkan kemampuan mencari, mengevaluasi, dan menggunakan informasi dengan efektif.
+   - **Durasi:** 2 jam
+   - **Jadwal:** Setiap Sabtu, pukul 10:00 - 12:00
+   - **Biaya:** Gratis (pendaftaran diperlukan)
+
+---
